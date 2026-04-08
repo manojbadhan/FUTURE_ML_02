@@ -1,0 +1,29 @@
+Ticket,Category
+"My payment failed but money was deducted",Billing
+"Unable to login into my account",Account
+"App crashes every time I open it",Technical
+"I forgot my password and can't reset it",Account
+"My order has not been delivered yet",Shipping
+"Payment gateway not working",Billing
+"Website shows error 500",Technical
+"I want a refund for my order",Billing
+"Delivery is delayed by 5 days",Shipping
+"Unable to update profile details",Account
+"App is very slow and lagging",Technical
+"Money deducted twice for one order",Billing
+"Order status is not updating",Shipping
+"Reset password link not working",Account
+"Facing issue while checkout",Technical
+"Received wrong product",Shipping
+"Transaction failed but money deducted",Billing
+"Cannot verify my email address",Account
+"Application freezes on startup",Technical
+"Late delivery and no updates",Shipping
+"Refund not processed yet",Billing
+"Login OTP not received",Account
+"Server is down frequently",Technical
+"Order cancelled automatically",Shipping
+"Double payment issue",Billing
+"Account temporarily locked",Account
+"Bug in latest app version",Technical
+"Package not delivered on time",Shipping
